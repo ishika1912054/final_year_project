@@ -1,4 +1,4 @@
-! pip install apyori
+pip install apyori
 import streamlit as st
 import pandas as pd
 from apyori import apriori
