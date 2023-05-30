@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-$ pip install apyori
 from apyori import apriori
 
 def perform_market_basket_analysis(df):
